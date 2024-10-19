@@ -6,7 +6,7 @@ Aspiring Data Scientist and Researcher
 
 * 🌍  I'm based in Bengaluru
 * ✉️  You can contact me at [kanbargi.adi2k@gmail.com](mailto:kanbargi.adi2k@gmail.com)
-* 🧠  I'm learning a deep learning framework called Chainer
+* 🧠  Currently, I'm learning a deep learning framework called Chainer
 
 ### Skills
 
