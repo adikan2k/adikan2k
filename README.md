@@ -1,10 +1,10 @@
 Hi 👋 My name is Aditya Kanbargi
 ================================
 
-Aspiring Data Scientist and Researcher
+MS in Data Science @ The George Washington University | Aspiring Data Scientist and Researcher
 --------------------------------------
 
-* 🌍  I'm based in Bengaluru
+* 🌍  Currently in Washington, DC
 * ✉️  You can contact me at [kanbargi.adi2k@gmail.com](mailto:kanbargi.adi2k@gmail.com)
 * 🧠  Currently, I'm learning a deep learning framework called Chainer
 
