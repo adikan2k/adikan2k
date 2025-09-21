@@ -4,9 +4,8 @@ Hi 👋 My name is Aditya Kanbargi
 MS in Data Science @ The George Washington University | Aspiring Data Scientist and Researcher
 --------------------------------------
 
-* 🌍  Currently in Washington, DC
+* 🌍  Currently in Arlington, VA
 * ✉️  You can contact me at [kanbargi.adi2k@gmail.com](mailto:kanbargi.adi2k@gmail.com)
-* 🧠  Currently, I'm learning a deep learning framework called Chainer
 
 ### Skills
 
