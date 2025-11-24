@@ -8,7 +8,7 @@
     <a href="mailto:aditya.kanbargi@gwu.edu">
       <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://aditya-kanbargi.vercel.app/">
+    <a href="https://adityakanbargi.vercel.app/">
       <img src="https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" />
     </a>
   </p>
