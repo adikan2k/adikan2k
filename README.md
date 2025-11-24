@@ -15,7 +15,7 @@
 
   <h3>🎓 MS Data Science @ The George Washington University</h3>
   <p width="600px">
-    I am an aspiring Data Scientist and Researcher based in <b>Arlington, VA</b>[cite: 35].<br/>
+    I am an aspiring Data Scientist and Researcher based in <b>Arlington, VA</b>.<br/>
     I bridge the gap between <b>complex data</b> and <b>actionable insights</b> using GenAI, Cloud Computing, and Advanced Analytics.
   </p>
 
@@ -120,17 +120,16 @@
 
 | **🤖 Generative AI & Agents** | **📊 Data Science & Analytics** |
 |:---:|:---:|
-| [cite_start]**[Evidentia: Multi-Agent Research Analyst](https://github.com/adikan2k/Evidentia---Multimodal-Multi-Agent-Research-Analyst)** <br> *LangGraph, Qdrant, Docker* <br> A multimodal, multi-agent AI that automates evidence-backed insight generation, cutting manual synthesis by 60%[cite: 67]. | [cite_start]**[Steam Games Analytics](https://github.com/adikan2k/Steam-Games-Analysis-and-Modeling)** <br> *XGBoost, LSTMs, Plotly* <br> Analyzed 100k+ game records to uncover price patterns and engagement trends with **92% forecast accuracy**[cite: 70]. |
-| [cite_start]**[TeleHealth Compass](https://github.com/adikan2k/TeleCompass)** <br> *Llama-3.1, RAG, BGE-Embeddings* <br> AI platform for policy intelligence using RAG pipelines to analyze regulations with sub-5s latency[cite: 64]. | [cite_start]**[Public Health Risk Prediction](https://github.com/adikan2k)** <br> *Python, SQL, Tableau* <br> ML models on EHR data to detect patient deterioration risks (sepsis/cardiac), extending early-warning lead times by 6 hours[cite: 49]. |
-| [cite_start]**[AWS Meta Learning (MAML)](https://github.com/adikan2k/AWS_META_LEARNING)** <br> *AWS SageMaker, Flask, S3* <br> Cloud-native few-shot image classification system fully deployed on AWS[cite: 74]. | [cite_start]**[Music Genre Classification](https://github.com/adikan2k/MUSIC-GENRE-CLASSIFICATION-USING-MACHINE-LEARNING-TECHNIQUES)** <br> *CNN, RNN, Random Forest* <br> Published research on classifying music files automatically based on genre[cite: 75]. |
+| **[Evidentia: Multi-Agent Research Analyst](https://github.com/adikan2k/Evidentia---Multimodal-Multi-Agent-Research-Analyst)** <br> *LangGraph, Qdrant, Docker* <br> A multimodal, multi-agent AI that automates evidence-backed insight generation, cutting manual synthesis by 60%. | **[Steam Games Analytics](https://github.com/adikan2k/Steam-Games-Analysis-and-Modeling)** <br> *XGBoost, LSTMs, Plotly* <br> Analyzed 100k+ game records to uncover price patterns and engagement trends with **92% forecast accuracy**. |
+| **[TeleHealth Compass](https://github.com/adikan2k/TeleCompass)** <br> *Llama-3.1, RAG, BGE-Embeddings* <br> AI platform for policy intelligence using RAG pipelines to analyze regulations with sub-5s latency. | **[Public Health Risk Prediction](https://github.com/adikan2k)** <br> *Python, SQL, Tableau* <br> ML models on EHR data to detect patient deterioration risks (sepsis/cardiac), extending early-warning lead times by 6 hours classification system fully deployed on AWS[cite: 74]. | [cite_start]**[Music Genre Classification](https://github.com/adikan2k/MUSIC-GENRE-CLASSIFICATION-USING-MACHINE-LEARNING-TECHNIQUES)** <br> *CNN, RNN, Random Forest* <br> Published research on classifying music files automatically based on genre. |
 
 ---
 
 ### 🏆 Achievements & Publications
 
-* [cite_start]**AWS Certified AI Practitioner** [cite: 45]
-* [cite_start]**Global Leaders Fellowship Recipient** (GWU) [cite: 38]
-* [cite_start]**Published Author:** *"Music Genre Classification Using Machine Learning Techniques"* - International Journal of Scientific Research in Engineering and Management (IJSREM), Vol 7, Issue 12.
+* **AWS Certified AI Practitioner** 
+* **Global Leaders Fellowship Recipient** (GWU) 
+* **Published Author:** *"Music Genre Classification Using Machine Learning Techniques"* - International Journal of Scientific Research in Engineering and Management (IJSREM), Vol 7, Issue 12.
 
 ---
 
