@@ -1,66 +1,79 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Aditya%20Kanbargi&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI%20Researcher&descAlignY=55&descAlign=50" alt="Header" />
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Aditya%20Kanbargi&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI%20Researcher%20%7C%20AWS%20Certified%20AI%20Practitioner&descAlignY=55&descAlign=50" alt="Aditya Kanbargi Header" />
 
-<div align="center">
-<table border="0">
-  <tr>
-    <td width="60%" valign="top">
-      
-      <h3>👋 The Architect of Clarity</h3>
-      <blockquote>
-        <b><i>"Some people see data as oil; I see it as clay."</i></b>
-      </blockquote>
-      <p>
-        It’s messy and unstructured until you mold it into something that holds weight. I specialize in that transformation process—taking raw, fragmented information and architecting it into clarity.
-      </p>
-      <p>
-        [cite_start]Currently pursuing my <b>MS in Data Science at GWU</b> [cite: 5][cite_start], I’ve spent my time building everything from clinical early-warning systems [cite: 16] [cite_start]to automated research agents[cite: 32]. 
-      </p>
-      <p>
-        I strive to create work that feels "magical"—not because it's a trick, but because it works so seamlessly you forget the complexity behind it.
-      </p>
+  <p>
+    <a href="https://www.linkedin.com/in/adikan2k">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:aditya.kanbargi@gwu.edu">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://aditya-kanbargi.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+  </p>
 
-      <p>
-        <a href="https://www.linkedin.com/in/adikan2k"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-        <a href="mailto:aditya.kanbargi@gwu.edu"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-        <a href="https://aditya-kanbargi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-      </p>
-    </td>
-    
-    <td width="40%" valign="center" align="center">
-      <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adikan2k&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-      <br/>
-      <br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=adikan2k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" alt="Stats" />
-    </td>
-  </tr>
-</table>
+  <h3>🎓 MS Data Science @ The George Washington University</h3>
+  <p width="600px">
+    I am an aspiring Data Scientist and Researcher based in <b>Arlington, VA</b>[cite: 35].<br/>
+    I bridge the gap between <b>complex data</b> and <b>actionable insights</b> using GenAI, Cloud Computing, and Advanced Analytics.
+  </p>
+
+  <br/>
 </div>
 
 ---
 
-### 🛠️ The Toolkit
+### 🛠️ The Tech Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,cpp,sql,pytorch,tensorflow,scikitlearn,pandas,aws,gcp,docker,tableau&theme=dark&perline=12" />
+  <p><b>Languages & Core</b></p>
+  <img src="https://skillicons.dev/icons?i=python,r,cpp,sql,html,css&theme=dark" />
+  
+  <p><b>AI, ML & Data Science</b></p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,pandas,numpy,opencv&theme=dark" />
+  
+  <p><b>Cloud, DevOps & Tools</b></p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,vscode,flask,fastapi,postgres,mongodb&theme=dark" />
+  
+  <p><b>Visualization</b></p>
+  <img src="https://skillicons.dev/icons?i=tableau,powerbi,grafana&theme=dark" />
 </div>
 
 ---
 
-### 🚀 Selected Works
+### 🚀 Featured Projects
 
-| **🤖 Agentic AI & Systems** | **📊 Predictive Analytics** |
+| **🤖 Generative AI & Agents** | **📊 Data Science & Analytics** |
 |:---:|:---:|
-| [cite_start]**[Evidentia: The AI Analyst](https://github.com/adikan2k/Evidentia---Multimodal-Multi-Agent-Research-Analyst)** <br> *LangGraph, Qdrant, Docker* <br> A multimodal, multi-agent system that cuts research synthesis time by **60%**[cite: 34]. | **[Steam Market Forecaster](https://github.com/adikan2k/Steam-Games-Analysis-and-Modeling)** <br> *XGBoost, LSTMs, Plotly* <br> Molds 100k+ raw game records into strategy. [cite_start]Achieved **92% forecast accuracy**[cite: 37]. |
-| [cite_start]**[TeleHealth Compass](https://github.com/adikan2k/TeleCompass)** <br> *Llama-3, RAG* <br> Transforms dense policy PDFs into instant answers with **sub-5s latency**[cite: 31]. | [cite_start]**[Clinical Early-Warning System](https://github.com/adikan2k)** <br> *Python, SQL, Tableau* <br> Extended prediction lead times for sepsis/cardiac arrest by **6 hours**[cite: 16]. |
+| [cite_start]**[Evidentia: Multi-Agent Research Analyst](https://github.com/adikan2k/Evidentia---Multimodal-Multi-Agent-Research-Analyst)** <br> *LangGraph, Qdrant, Docker* <br> A multimodal, multi-agent AI that automates evidence-backed insight generation, cutting manual synthesis by 60%[cite: 67]. | [cite_start]**[Steam Games Analytics](https://github.com/adikan2k/Steam-Games-Analysis-and-Modeling)** <br> *XGBoost, LSTMs, Plotly* <br> Analyzed 100k+ game records to uncover price patterns and engagement trends with **92% forecast accuracy**[cite: 70]. |
+| [cite_start]**[TeleHealth Compass](https://github.com/adikan2k/TeleCompass)** <br> *Llama-3.1, RAG, BGE-Embeddings* <br> AI platform for policy intelligence using RAG pipelines to analyze regulations with sub-5s latency[cite: 64]. | [cite_start]**[Public Health Risk Prediction](https://github.com/adikan2k)** <br> *Python, SQL, Tableau* <br> ML models on EHR data to detect patient deterioration risks (sepsis/cardiac), extending early-warning lead times by 6 hours[cite: 49]. |
+| [cite_start]**[AWS Meta Learning (MAML)](https://github.com/adikan2k/AWS_META_LEARNING)** <br> *AWS SageMaker, Flask, S3* <br> Cloud-native few-shot image classification system fully deployed on AWS[cite: 74]. | [cite_start]**[Music Genre Classification](https://github.com/adikan2k/MUSIC-GENRE-CLASSIFICATION-USING-MACHINE-LEARNING-TECHNIQUES)** <br> *CNN, RNN, Random Forest* <br> Published research on classifying music files automatically based on genre[cite: 75]. |
 
 ---
 
+### 🏆 Achievements & Publications
+
+* [cite_start]**AWS Certified AI Practitioner** [cite: 45]
+* [cite_start]**Global Leaders Fellowship Recipient** (GWU) [cite: 38]
+* [cite_start]**Published Author:** *"Music Genre Classification Using Machine Learning Techniques"* - International Journal of Scientific Research in Engineering and Management (IJSREM), Vol 7, Issue 12.
+
+---
+
+### 📈 GitHub Stats
+
 <div align="center">
-  <b>🏆 Achievements</b><br/>
-  [cite_start]AWS Certified AI Practitioner • Global Leaders Fellowship (GWU) [cite: 5] [cite_start]• Published Author (IJSREM) [cite: 43]
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=adikan2k&style=flat-square&color=blueviolet" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adikan2k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="Aditya's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adikan2k&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Aditya's Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adikan2k&theme=gitdimmed&no-frame=true&column=7" />
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=adikan2k&style=flat-square&color=blue" alt="Profile Views" />
 </div>
