@@ -1,20 +1,79 @@
-Hi 👋 My name is Aditya Kanbargi
-================================
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=300&section=header&text=Hi%20there,%20I'm%20Aditya%20Kanbargi%20👋&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20Researcher%20%7C%20AWS%20Certified%20AI%20Practitioner&descAlignY=55&descAlign=50" alt="Aditya Kanbargi Banner" />
+</div>
 
-MS in Data Science @ The George Washington University | Aspiring Data Scientist and Researcher
---------------------------------------
+<div align="center">
 
-* 🌍  Currently in Arlington, VA
-* ✉️  You can contact me at [kanbargi.adi2k@gmail.com](mailto:kanbargi.adi2k@gmail.com)
+  <a href="https://www.linkedin.com/in/adikan2k">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:aditya.kanbargi@gwu.edu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://aditya-kanbargi.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 
-### Skills
+  <br />
+  <br />
+  
+  <h3> 🎓 MS Data Science @ The George Washington University </h3>
+  <p>
+    I am an aspiring Data Scientist and Researcher based in <b>Arlington, VA</b>. <br/>
+    I bridge the gap between <b>complex data</b> and <b>actionable insights</b> using GenAI, Cloud Computing, and Advanced Analytics.
+  </p>
+</div>
 
+---
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
-</p>
+### 🛠️ Tech Stack
 
+<div align="center">
+  
+  <img src="https://skillicons.dev/icons?i=python,r,cpp,sql,html,css" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,pandas,numpy,matplotlib,opencv" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,vscode,flask,fastapi,postgres,mongodb" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=tableau,powerbi,grafana" />
 
-### Socials
+</div>
 
-<p align="left"> <a href="https://www.github.com/adikan2k" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+---
+
+### 🚀 Featured Projects
+
+| **🤖 Generative AI & Agents** | **📊 Data Science & Analytics** |
+|:---:|:---:|
+| **[Evidentia: Multi-Agent Research Analyst](https://github.com/adikan2k/Evidentia---Multimodal-Multi-Agent-Research-Analyst)** <br> *LangGraph, Qdrant, Docker, FastAPI* <br> Built a multimodal, multi-agent AI that automates evidence-backed insight generation, cutting manual synthesis by 60%. | **[Steam Games Analytics](https://github.com/adikan2k/Steam-Games-Analysis-and-Modeling)** <br> *XGBoost, LSTMs, Plotly* <br> Analyzed 100k+ game records to uncover price patterns and engagement trends with 92% forecast accuracy. |
+| **[TeleHealth Compass](https://github.com/adikan2k/TeleCompass)** <br> *Llama-3, RAG, BGE-Embeddings* <br> An AI-powered platform for policy intelligence using RAG pipelines to analyze telehealth regulations with sub-5s latency. | **[Public Health Risk Prediction](https://github.com/adikan2k)** <br> *Python, SQL, Tableau* <br> Developed ML models on EHR data to detect patient deterioration risks (sepsis/cardiac), extending early-warning lead times by 6 hours. |
+| **[AWS Meta Learning (MAML)](https://github.com/adikan2k/AWS_META_LEARNING)** <br> *AWS SageMaker, Flask, S3* <br> Cloud-native few-shot image classification system fully deployed on AWS. | **[NASA Wildfire Detection](https://github.com/adikan2k)** <br> *Amazon QuickSight, SQL, Geospatial APIs* <br> Real-time dashboard integrating NASA FIRMS satellite data for wildfire risk analytics. |
+
+---
+
+### 📈 Github Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adikan2k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="Aditya's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adikan2k&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Aditya's Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adikan2k&theme=gitdimmed&no-frame=true&column=7" />
+</div>
+
+---
+
+### 📜 Publications & Achievements
+
+* 🏆 **AWS Certified AI Practitioner**
+* 📄 **International Journal of Scientific Research in Engineering and Management (IJSREM):** Published "Music Genre Classification Using Machine Learning Techniques" (Vol 7, Issue 12).
+* 🏅 **Global Leaders Fellowship Recipient** @ GWU
+
+<div align="center">
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=adikan2k&style=flat-square&color=blue" alt="Profile Views" />
+</div>
