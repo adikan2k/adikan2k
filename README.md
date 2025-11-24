@@ -27,18 +27,17 @@
 ### 🛠️ The Tech Arsenal
 
 <div align="center">
-  <p><b>Languages & Core</b></p>
-  <img src="https://skillicons.dev/icons?i=python,r,cpp,sql,html,css&theme=dark" />
+
+  <img src="https://skillicons.dev/icons?i=python,r,cpp,html,css,mysql&theme=dark" />
+  <br/>
   
-  <p><b>AI, ML & Data Science</b></p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,pandas,numpy,opencv&theme=dark" />
-  
-  <p><b>Cloud, DevOps & Tools</b></p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,vscode,flask,fastapi,postgres,mongodb&theme=dark" />
-  
-  <p><b>Visualization</b></p>
-  <img src="https://skillicons.dev/icons?i=tableau,powerbi,grafana&theme=dark" />
-</div>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy,opencv&theme=dark" />
+  <br/>
+
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,flask,fastapi,postgres,mongodb&theme=dark" />
+  <br/>
+
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,matplotlib,grafana&theme=dark" />
 
 ---
 
