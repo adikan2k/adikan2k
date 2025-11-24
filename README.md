@@ -24,21 +24,96 @@
 
 ---
 
-### 🛠️ The Tech Arsenal
+<h3>🛠️ The Tech Arsenal</h3>
 
 <div align="center">
-
-  <img src="https://skillicons.dev/icons?i=python,r,cpp,html,css,mysql&theme=dark" />
-  <br/>
-  
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy,opencv&theme=dark" />
-  <br/>
-
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,flask,fastapi,postgres,mongodb&theme=dark" />
-  <br/>
-
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,matplotlib,grafana&theme=dark" />
-
+<table border="0" width="100%">
+    <tr>
+        <td width="33%" valign="top">
+            <h4 align="center">💻 Programming & Frameworks</h4>
+            <p align="center" width="90%">Languages and runtimes to move from idea to deployable experience.</p>
+            <div align="center">
+                <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+                <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
+                <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+                <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+                <br/>
+                <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+                <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+                <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+                <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+            </div>
+        </td>
+        <td width="33%" valign="top">
+            <h4 align="center">📊 ML & Data Science Libraries</h4>
+            <p align="center" width="90%">The analytical toolkit for experimentation, statistical modeling, and deep learning.</p>
+            <div align="center">
+                <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+                <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+                <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+                <br/>
+                <img src="https://img.shields.io/badge/XGBoost-111111?style=flat-square&logo=xgboost&logoColor=white" />
+                <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+                <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+                <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
+                <br/>
+                 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+            </div>
+        </td>
+        <td width="33%" valign="top">
+            <h4 align="center">🗄️ Databases & Storage</h4>
+            <p align="center" width="90%">Relational, document, and vector stores for structured and unstructured data.</p>
+            <div align="center">
+                <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+                <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+                <br/>
+                <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+                <img src="https://img.shields.io/badge/Qdrant_(Vector)-6D35D1?style=flat-square&logo=qdrant&logoColor=white" />
+                <br/>
+                <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td width="33%" valign="top">
+            <h4 align="center">☁️ Cloud, Data & Infrastructure</h4>
+            <p align="center" width="90%">Managed services and container tooling for production-ready data products.</p>
+            <div align="center">
+                 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+                 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+                 <br/>
+                 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+                 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+            </div>
+        </td>
+        <td width="33%" valign="top">
+            <h4 align="center">📈 Visualization & BI</h4>
+            <p align="center" width="90%">Platforms that translate analysis into narratives stakeholders can act on.</p>
+            <div align="center">
+                <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+                <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+                <br/>
+                <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+                <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
+                <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
+            </div>
+        </td>
+        <td width="33%" valign="top">
+            <h4 align="center">✨ Generative AI & LLMs</h4>
+            <p align="center" width="90%">Frameworks operationalizing LLMs, retrieval pipelines (RAG), and agents.</p>
+            <div align="center">
+                <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+                <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+                <br/>
+                <img src="https://img.shields.io/badge/Llama_3-0467DF?style=flat-square&logo=meta&logoColor=white" />
+                <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+                <img src="https://img.shields.io/badge/RAG-FF4F00?style=flat-square" />
+            </div>
+        </td>
+    </tr>
+</table>
+</div>
+```
 ---
 
 ### 🚀 Featured Projects
