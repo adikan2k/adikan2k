@@ -15,7 +15,7 @@
         It’s messy and unstructured until you mold it into something that holds weight. I specialize in that transformation process—taking raw, fragmented information and architecting it into clarity.
       </p>
       <p>
-        Currently pursuing my <b>MS in Data Science at GWU</b>, I’ve spent my time building everything from clinical early-warning systems to automated research agents. 
+        [cite_start]Currently pursuing my <b>MS in Data Science at GWU</b> [cite: 5][cite_start], I’ve spent my time building everything from clinical early-warning systems [cite: 16] [cite_start]to automated research agents[cite: 32]. 
       </p>
       <p>
         I strive to create work that feels "magical"—not because it's a trick, but because it works so seamlessly you forget the complexity behind it.
@@ -53,11 +53,14 @@
 
 | **🤖 Agentic AI & Systems** | **📊 Predictive Analytics** |
 |:---:|:---:|
-| **[Evidentia: The AI Analyst](https://github.com/adikan2k/Evidentia---Multimodal-Multi-Agent-Research-Analyst)** <br> *LangGraph, Qdrant, Docker* <br> A multimodal, multi-agent system that cuts research synthesis time by **60%**. | **[Steam Market Forecaster](https://github.com/adikan2k/Steam-Games-Analysis-and-Modeling)** <br> *XGBoost, LSTMs, Plotly* <br> Molds 100k+ raw game records into strategy. Achieved **92% forecast accuracy**. |
-| **[TeleHealth Compass](https://github.com/adikan2k/TeleCompass)** <br> *Llama-3, RAG* <br> Transforms dense policy PDFs into instant answers with **sub-5s latency**. | **[Clinical Early-Warning System](https://github.com/adikan2k)** <br> *Python, SQL, Tableau* <br> Extended prediction lead times for sepsis/cardiac arrest by **6 hours**. |
+| [cite_start]**[Evidentia: The AI Analyst](https://github.com/adikan2k/Evidentia---Multimodal-Multi-Agent-Research-Analyst)** <br> *LangGraph, Qdrant, Docker* <br> A multimodal, multi-agent system that cuts research synthesis time by **60%**[cite: 34]. | **[Steam Market Forecaster](https://github.com/adikan2k/Steam-Games-Analysis-and-Modeling)** <br> *XGBoost, LSTMs, Plotly* <br> Molds 100k+ raw game records into strategy. [cite_start]Achieved **92% forecast accuracy**[cite: 37]. |
+| [cite_start]**[TeleHealth Compass](https://github.com/adikan2k/TeleCompass)** <br> *Llama-3, RAG* <br> Transforms dense policy PDFs into instant answers with **sub-5s latency**[cite: 31]. | [cite_start]**[Clinical Early-Warning System](https://github.com/adikan2k)** <br> *Python, SQL, Tableau* <br> Extended prediction lead times for sepsis/cardiac arrest by **6 hours**[cite: 16]. |
 
 ---
 
 <div align="center">
   <b>🏆 Achievements</b><br/>
-  AWS Certified AI Practitioner • Global Leaders
+  [cite_start]AWS Certified AI Practitioner • Global Leaders Fellowship (GWU) [cite: 5] [cite_start]• Published Author (IJSREM) [cite: 43]
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=adikan2k&style=flat-square&color=blueviolet" alt="Profile Views" />
+</div>
