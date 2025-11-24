@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Aditya%20Kanbargi&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Alchemist%20%7C%20AI%20Researcher%20%7C%20AWS%20Certified%20AI%20Practitioner&descAlignY=55&descAlign=50" alt="Aditya Kanbargi Header" />
-
   <h2>
     Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving Hand">
   </h2>
