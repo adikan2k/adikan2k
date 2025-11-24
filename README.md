@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Aditya%20Kanbargi&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI%20Researcher%20%7C%20AWS%20Certified%20AI%20Practitioner&descAlignY=55&descAlign=50" alt="Aditya Kanbargi Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Aditya%20Kanbargi&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Alchemist%20%7C%20AI%20Researcher%20%7C%20AWS%20Certified%20AI%20Practitioner&descAlignY=55&descAlign=50" alt="Aditya Kanbargi Header" />
 
   <p>
     <a href="https://www.linkedin.com/in/adikan2k">
