@@ -16,8 +16,9 @@
   <h3>🎓 MS Data Science @ The George Washington University</h3>
   <p width="600px">
     AI and Analytics Engineer.<br/>
-    I build <b>end-to-end data pipelines</b>, design <b>star-schema warehouses</b>, and deliver <b>insight-driven dashboards</b> — powered by SQL, Python, and cloud-native analytics.<br/>
-    I also leverage <b>AI/ML and GenAI</b> to automate analysis and surface patterns at scale.
+    I build <b>LLM applications end to end</b>: <b>tool-using agents</b>, <b>retrieval</b>, and <b>evals that run before a feature ships</b>.<br/>
+    Under them I build the analytics: <b>tested data pipelines</b>, <b>star-schema warehouses</b> and <b>dashboards</b>, with SQL, Python and cloud-native tooling.<br/>
+    Latest: <a href="https://github.com/adikan2k/labellens"><b>LabelLens</b></a>, a million US food labels behind a knowledge graph, an ask agent and an MCP App for Claude.
   </p>
 
   <br/>
