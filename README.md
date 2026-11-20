@@ -15,7 +15,7 @@
 
   <h3>🎓 MS Data Science @ The George Washington University</h3>
   <p width="600px">
-    Analytics Engineer and Data Scientist based in <b>Arlington, VA</b>.<br/>
+    Analytics Engineer and Data Scientist.<br/>
     I build <b>end-to-end data pipelines</b>, design <b>star-schema warehouses</b>, and deliver <b>insight-driven dashboards</b> — powered by SQL, Python, and cloud-native analytics.<br/>
     I also leverage <b>AI/ML and GenAI</b> to automate analysis and surface patterns at scale.
   </p>
