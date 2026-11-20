@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Aditya%20Kanbargi&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Analytics%20Systems%20%7C%20AWS%20Certified%20AI%20Practitioner&descAlignY=55&descAlign=50" alt="Aditya Kanbargi Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Aditya%20Kanbargi&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20and%20Analytics%20Engineer%20%7C%20AWS%20Certified%20AI%20Practitioner&descAlignY=55&descAlign=50" alt="Aditya Kanbargi Header" />
 
   <p>
     <a href="https://www.linkedin.com/in/adikan2k">
@@ -30,9 +30,9 @@
 
 <div align="center">
 
-`ETL Pipelines` · `Data Warehousing` · `Star Schema Design` · `Dashboard Development` · `Statistical Modeling` · `Forecasting` · `AI/ML Engineering`
+`LLM Agents` · `RAG` · `LLM Evals` · `MCP` · `ETL Pipelines` · `Data Warehousing` · `Star Schema Design` · `Dashboard Development` · `Statistical Modeling` · `Forecasting`
 
-**I turn raw data into warehouse-ready assets and interactive dashboards that drive business decisions.**
+**I build AI agents that are measured before they ship, on tested data pipelines and warehouses.**
 
 </div>
 
@@ -129,6 +129,15 @@
 
 ### 🚀 Featured Projects
 
+#### 🤖 Generative AI & Agents
+
+| Project | Stack | Impact |
+|:--------|:-----:|:-------|
+| **[LabelLens — What's Really in Your Food?](https://github.com/adikan2k/labellens)** | *Claude, MCP, FastAPI, dbt, DuckDB, Postgres + pgvector, Neo4j, Next.js* | A million US food labels behind a tested pipeline and a knowledge graph. The ask agent scores **0.98** on facts against **0.26** for search alone, the label reader gets **98%** of values right from photos, and it runs inside Claude as an **MCP App**. [Live site](https://labellens-beige.vercel.app) |
+| **[Evidentia — Multi-Agent Research Analyst](https://github.com/adikan2k/Evidentia---Multimodal-Multi-Agent-Research-Analyst)** | *LangGraph, Qdrant, Docker* | Multimodal, multi-agent AI that automates evidence-backed insight generation, cutting manual synthesis by **60%**. |
+| **[TeleHealth Compass](https://github.com/adikan2k/TeleCompass)** | *Llama-3.1, RAG, BGE-Embeddings* | AI platform for policy intelligence using RAG pipelines to analyze regulations with **sub-5s latency**. |
+| **[Music Genre Classification](https://github.com/adikan2k/MUSIC-GENRE-CLASSIFICATION-USING-MACHINE-LEARNING-TECHNIQUES)** | *CNN, RNN, Random Forest* | Published research on automated music genre classification. |
+
 #### ⚡ Data Engineering & Analytics
 
 | Project | Stack | Impact |
@@ -137,14 +146,6 @@
 | **[NutriMap — Geospatial Food Analytics & Inflation Forecasting](https://github.com/adikan2k/NutriMap-Geospatial-Food-Analytics-Inflation-Forecasting)** | *Power BI, PostgreSQL, dbt, Prophet* | Mapped **345 food desert counties** via geospatial analysis, quantified a **2.5x grocery affordability gap**, and forecasted food inflation with **0.28% MAPE**. Healthy food costs **136% more** per calorie. |
 | **[RiskMetric — Algorithmic Fraud Detection & Risk Modeling](https://github.com/adikan2k/RiskMetric-)** | *DuckDB, dbt, Streamlit, Python* | Built a medallion-architecture fraud engine processing **1M+ synthetic banking transactions**, detecting 3 fraud archetypes (impossible travel, velocity spikes, behavioral drift) with **Haversine spatial analysis** and composite risk scoring. Full CI/CD via GitHub Actions. |
 | **[Steam Market Trends & Customer Segmentation](https://github.com/adikan2k/Steam-Games-Analysis-and-Modeling)** | *XGBoost, LSTMs, Plotly, PowerBI, Prophet* | Analyzed **100K+ game records** on the steam market to uncover price patterns and engagement trends with **92% forecast accuracy**. |
-
-#### 🤖 Generative AI & Agents
-
-| Project | Stack | Impact |
-|:--------|:-----:|:-------|
-| **[Evidentia — Multi-Agent Research Analyst](https://github.com/adikan2k/Evidentia---Multimodal-Multi-Agent-Research-Analyst)** | *LangGraph, Qdrant, Docker* | Multimodal, multi-agent AI that automates evidence-backed insight generation, cutting manual synthesis by **60%**. |
-| **[TeleHealth Compass](https://github.com/adikan2k/TeleCompass)** | *Llama-3.1, RAG, BGE-Embeddings* | AI platform for policy intelligence using RAG pipelines to analyze regulations with **sub-5s latency**. |
-| **[Music Genre Classification](https://github.com/adikan2k/MUSIC-GENRE-CLASSIFICATION-USING-MACHINE-LEARNING-TECHNIQUES)** | *CNN, RNN, Random Forest* | Published research on automated music genre classification. |
 
 ---
 
